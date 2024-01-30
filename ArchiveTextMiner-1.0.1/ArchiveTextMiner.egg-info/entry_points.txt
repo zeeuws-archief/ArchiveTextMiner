@@ -1,0 +1,2 @@
+[console_scripts]
+ArchiveTextMiner = ArchiveTextMiner.generator:main

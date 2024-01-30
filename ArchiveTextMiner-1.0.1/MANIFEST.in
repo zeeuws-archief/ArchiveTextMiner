@@ -1,0 +1,8 @@
+recursive-include *.py
+recursive-include ArchiveTextMiner *.py
+recursive-include ArchiveTextMiner/input *
+recursive-include requirements.txt
+recursive-include LICENSE.md
+recursive-include README.md
+recursive-include setup.py
+

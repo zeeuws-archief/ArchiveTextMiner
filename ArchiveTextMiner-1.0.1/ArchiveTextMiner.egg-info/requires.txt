@@ -1,0 +1,17 @@
+click
+colorama
+joblib
+langdetect
+nltk
+numpy
+PyPDF2
+python-magic
+regex
+scikit-learn
+scipy
+setuptools
+sentencepiece
+six
+threadpoolctl
+tqdm
+transformers

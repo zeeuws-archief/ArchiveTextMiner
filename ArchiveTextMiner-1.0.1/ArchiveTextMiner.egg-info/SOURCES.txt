@@ -1,0 +1,16 @@
+LICENSE.md
+MANIFEST.in
+README.md
+setup.py
+ArchiveTextMiner/__init__.py
+ArchiveTextMiner/generator.py
+ArchiveTextMiner/requirements.txt
+ArchiveTextMiner.egg-info/PKG-INFO
+ArchiveTextMiner.egg-info/SOURCES.txt
+ArchiveTextMiner.egg-info/dependency_links.txt
+ArchiveTextMiner.egg-info/entry_points.txt
+ArchiveTextMiner.egg-info/requires.txt
+ArchiveTextMiner.egg-info/top_level.txt
+ArchiveTextMiner/input/test.zip
+ArchiveTextMiner/modules/__init__.py
+ArchiveTextMiner/modules/text_miner.py

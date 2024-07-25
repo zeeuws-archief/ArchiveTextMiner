@@ -4,9 +4,8 @@
 
 [English text below](#english-text)
 
-### Probeer nu de ArchiveTextMiner demo!
+### Probeer nu de [ArchiveTextMiner Demo](https://es-connector.acc.zeeland.nl)!
 
-- [ArchiveTextMiner Demo](https://es-connector.acc.zeeland.nl)
 
 ### 📝 Wat is het? 
 ArchiveTextMiner is een Python package die specifiek is ontworpen om tekstuele informatie uit PDF-bestanden te halen en metadata te creëren. De tool schoont de tekst op en verwerkt het per bestand, om vervolgens gestructureerde XML-bestanden met metadata in MDTO-formaat te genereren. Het primaire doel is om ongestructureerde gegevens om te zetten in gestructureerde metadata, waardoor doorzoekbaarheid wordt verbeterd.

@@ -4,7 +4,8 @@
 
 [English text below](#english-text)
 
-### Probeer nu de [ArchiveTextMiner Demo](https://es-connector.acc.zeeland.nl)!
+## 🚀 Probeer nu de [ArchiveTextMiner Demo](https://es-connector.acc.zeeland.nl/atm_demo)!
+## 🚀 Laat feedback over ArchiveTextMiner achter: [Feedbackformulier](https://www.survio.com/survey/d/M2M8O7E8Y5D1V6J3A)
 
 
 ### 📝 Wat is het? 
@@ -161,7 +162,7 @@ ArchiveTextMiner is een actief project. Bijdragen van gebruikers zijn daarom wel
 - **Functieverzoeken:** Suggesties kunnen worden ingediend via GitHub-issues als u ideeën hebt voor een nieuwe functie of verbetering.
 
 - **Pull-requests:** Bijdragen in de vorm van pull-requests worden op prijs gesteld.
-
+🚀🚀🚀🚀
 ### 🔮 Toekomstige stappen<a name="toekomst"></a>
 Om de tool te optimaliseren, werken we aan nieuwe toepassingen en functionaliteiten voor ArchiveTextMiner. We zijn momenteel bezig met:
 
